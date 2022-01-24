@@ -1,3 +1,7 @@
+def call(name){
+    echo "Default call by ${name}!"
+}
+
 def sayHi(name){
     echo "Hi ${name}!"
 }
